@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning artificial intelligence
 - 👯 I’m looking to collaborate on computer vision
 - 🤔 I’m looking for help with Milestone2
-- 💬 Ask me about 
+- 💬 Ask me about my family
 - 📫 How to reach me: 46838837
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
